@@ -1,0 +1,6 @@
+#type exit or give input
+#gets iput to downcase
+#Counts all letters in input 
+#returns word with most repeated letter within input
+
+
